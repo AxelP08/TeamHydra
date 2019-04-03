@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+Jackie
+=======
 Paulett
+Hola Jackie, estuve aqui 
+>>>>>>> faf5035dfec2581580feb340b148da40ec7e7455

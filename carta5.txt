@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 t status
 git checkout index.html
 vi index.html
@@ -49,3 +50,7 @@ vi index.html
 				       git checkout master
 				       git add .
 				       git checkout master
+=======
+yazmin yanela mayola
+
+>>>>>>> f8b48022bab831e173ce9325e42214f98b5a883c

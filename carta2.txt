@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rafael 
 
 git status
@@ -54,3 +55,6 @@ vi index.html
 
 
 vi carta2.txt
+=======
+Rafaello Magdaleno Hernandez do Nacimento
+>>>>>>> f8b48022bab831e173ce9325e42214f98b5a883c

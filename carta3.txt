@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Diego
 
 git status
@@ -51,3 +52,6 @@ vi index.html
 				       git checkout master
 				       git add .
 				       git checkout master
+=======
+Diego Israel
+>>>>>>> f8b48022bab831e173ce9325e42214f98b5a883c
