@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Diego
 Entro a hacer cambios desde rama4 (PT)
 
+=======
+Diego Israel
+>>>>>>> bf2b483b4dad91eb282b588f612ca56499496209
