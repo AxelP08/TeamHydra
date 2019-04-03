@@ -7,14 +7,15 @@ Integrantes:
 
 <li>Hernández Vega Rafael.</li>
 <li>Pantoja Romo Axel Jesús.</li>
-Rocha Zamudio Diego.
-Santiago Gutiérrez Yazmin Yanela.
-Toledo Varela Paulett Jaqueline.
+<li>Rocha Zamudio Diego.</li>
+<li>Santiago Gutiérrez Yazmin Yanela.</li>
+<li>Toledo Varela Paulett Jaqueline.</li>
 </ul>
 
 Nombres de usuario:
-RafaelHernandezVega
-AxelP08
-DiegoRochaZamudio
-YazminYane
-PaulettToledo
+<ul>
+<li>RafaelHernandezVega</li>
+<li>AxelP08</li>
+<li>DiegoRochaZamudio</li>
+<li>YazminYane</li>
+<li>PaulettToledo</li>
