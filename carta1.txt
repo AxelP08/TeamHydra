@@ -1,1 +1,2 @@
 Axel
+Todo administrador debe disparar las chelas
