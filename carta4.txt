@@ -1,6 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Jackie
 =======
 Paulett
 Hola Jackie, estuve aqui 
 >>>>>>> faf5035dfec2581580feb340b148da40ec7e7455
+=======
+Paulett
+Entro desde rama4 a hacer cambios(PT)
+
+=======
+Jackie
+>>>>>>> bf2b483b4dad91eb282b588f612ca56499496209
+>>>>>>> ab2a72018eec48c65aa1f73bed4df157108f664d

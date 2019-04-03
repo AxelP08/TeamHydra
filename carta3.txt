@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Diego
+<<<<<<< HEAD
 
 git status
 git checkout index.html
@@ -55,3 +56,10 @@ vi index.html
 =======
 Diego Israel
 >>>>>>> f8b48022bab831e173ce9325e42214f98b5a883c
+=======
+Entro a hacer cambios desde rama4 (PT)
+
+=======
+Diego Israel
+>>>>>>> bf2b483b4dad91eb282b588f612ca56499496209
+>>>>>>> ab2a72018eec48c65aa1f73bed4df157108f664d
