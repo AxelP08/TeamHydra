@@ -1,6 +1,4 @@
-Diego
-
-git status
+t status
 git checkout index.html
 vi index.html
    -a

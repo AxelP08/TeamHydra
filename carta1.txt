@@ -1,1 +1,53 @@
 Axel
+
+git status
+git checkout index.html
+vi index.html
+   -a
+      -borrar /body y /html
+         -agregamos <h3>hola otra vez</h3>
+	    -esc :wq
+	    cat index.html
+	    git checkout index.html
+	    cat index.html
+	    git branch
+	    git branch prueba
+	    git checkout prueba
+	    vi master.css
+	       -a
+	          -cambiamos de color green a redgit check o
+		     -esc :wq
+		     git add .
+		     git commit -m "un bonito color"
+		     git config --global user.email "themetatouch llicstar@gmail.com"
+		     git config --global user.name "RafaelHernandezVega"
+		     git commit -m "un bonito color"
+		     git log
+		     git checkout master
+		     git checkout prueba
+		     git branch vino
+		     git checkout vino
+		     vi master.css
+		        -a
+			   -cambiamos de color green a purple
+			      -esc :wq
+			      touch uno.txt
+			      touch dos.txt
+			      touch tres.txt
+			      touch cuatro.txt
+			      git status
+			      git add .
+			      git status
+			      git commit -m "lindo color vino"
+			      git status
+			      git checkout master
+			      git checkout vino
+			      git checkout prueba
+			      git merge vino
+			      vi master.css
+			         -a
+				    -borramos red y ponemos purple
+				       -esc :wq
+				       git checkout master
+				       git add .
+				       git checkout master
