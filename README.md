@@ -3,12 +3,14 @@
 Equipo HydraByte
 
 Integrantes:
+<ul>
 
-Hernández Vega Rafael.
-Pantoja Romo Axel Jesús.
+<li>Hernández Vega Rafael.</li>
+<li>Pantoja Romo Axel Jesús.</li>
 Rocha Zamudio Diego.
 Santiago Gutiérrez Yazmin Yanela.
 Toledo Varela Paulett Jaqueline.
+</ul>
 
 Nombres de usuario:
 RafaelHernandezVega
